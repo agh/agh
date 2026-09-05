@@ -15,13 +15,11 @@ At Azure OneFleet Platform, my focus is the engineering behind Azure's global in
 
 ## A little background
 
-**Open source has been part of the story from the start.** I ran infrastructure for communities as an IRC operator in the OPN and freenode days, hacked on Gentoo as a student, took part in the first Google Summer of Code, contributed to OpenStack early on, and worked at GitHub. Open source powers the world, and I plan to share a few select personal projects on GitHub in the hope that they help and inspire others.
+**Open source has been part of the story from the start.** I ran infrastructure for communities as an IRC operator in the OPN and freenode days, hacked on Gentoo as a student, took part in the first Google Summer of Code, contributed to OpenStack early on, and worked at GitHub. Today it's clearer than ever that open source powers the world, and I plan to share a few select personal projects on GitHub in the hope that they help and inspire others.
 
-Professionally, my recent work spans cloud capacity and identity security. At Microsoft, I've led Azure Capacity and Foundational Observability: forecasting and delivering compute, GPU and storage across 50+ regions, bringing gigawatts of new capacity online each year.
+Professionally, my recent work spans cloud capacity and identity security. At Microsoft, I've led Azure Capacity and Foundational Observability: forecasting and delivering compute, GPU and storage across 50+ regions, bringing gigawatts of new capacity online each year. Before that, I ran Entra Core Services in Microsoft Security, where the work combined identity systems that processed trillions of requests each week and enabled billions of people to get more done with defence against persistent, advanced nation-state threats.
 
-Before that, I ran Entra Core Services in Microsoft Security, where the work combined identity systems processing trillions of requests each week with defence against persistent nation-state threats.
-
-Before Microsoft, I was privileged to serve as Chief Information Security Officer in the earliest days of Oracle Cloud Infrastructure, and to lead EC2 Capacity, Forecasting & Placement at AWS — all part of two decades in infrastructure that began in UK hosting and telecom.
+Before Microsoft, I was privileged to serve as Chief Information Security Officer in the earliest days of Oracle Cloud Infrastructure, and to lead EC2 Capacity, Forecasting & Placement at AWS — all part of two decades working across software and infrastructure that began in UK hosting and telecom.
 
 ## Writing & speaking
 
