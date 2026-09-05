@@ -1,44 +1,48 @@
+# Hey, I'm Alex. 👋🏻
 
-# Hey, I'm Alex, it's nice to meet you. 👋🏻
+<a href="https://alexhowells.com/">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/quote-dark.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/quote-light.svg">
+    <source media="(min-width: 1000px) and (prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Space+Mono&amp;size=20&amp;duration=4000&amp;pause=2400&amp;color=A78BFA&amp;vCenter=true&amp;width=700&amp;height=40&amp;lines=The+best+infrastructure+disappears.;If+people+are+thinking+about+it%2C+you%27ve+already+failed.">
+    <source media="(min-width: 1000px)" srcset="https://readme-typing-svg.herokuapp.com?font=Space+Mono&amp;size=20&amp;duration=4000&amp;pause=2400&amp;color=7C3AED&amp;vCenter=true&amp;width=700&amp;height=40&amp;lines=The+best+infrastructure+disappears.;If+people+are+thinking+about+it%2C+you%27ve+already+failed.">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Space+Mono&amp;size=18&amp;duration=2500&amp;pause=2400&amp;color=A78BFA&amp;width=360&amp;height=100&amp;multiline=true&amp;lines=The+best+infrastructure;disappears.;If+people+are+thinking+about+it%2C;you%27ve+already+failed.">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&amp;size=18&amp;duration=2500&amp;pause=2400&amp;color=7C3AED&amp;width=360&amp;height=100&amp;multiline=true&amp;lines=The+best+infrastructure;disappears.;If+people+are+thinking+about+it%2C;you%27ve+already+failed." alt="The best infrastructure disappears. If people are thinking about it, you've already failed.">
+  </picture>
+</a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&color=8B949E&vCenter=true&width=700&height=32&lines=%22The+best+infrastructure+disappears.%22;%22If+people+are+thinking+about+it%2C+you've+already+failed.%22)](https://github.com/agh)
+**Corporate Vice President & Azure OneFleet Platform CTO at Microsoft**
 
-👨🏻‍💻 **Day Job:** Vice President, Engineering at **Microsoft** 🟥🟩🟦🟨<br>
-🌎 **Location:** Living near Seattle, WA 🌲 · Originally from the UK 🇬🇧
+At Azure OneFleet Platform, my focus is the engineering behind Azure's global infrastructure: bringing capacity online, operating it reliably, and using it efficiently.
 
-### The story so far ...
+<img src="azure-datacenter-banner.jpg" alt="Server racks lining an aisle in an Azure datacentre" width="1200" />
 
-I've spent over two decades building the systems that sit underneath everything else — from early UK hosting and telecom, through HP, Dyn, DigitalOcean, and Oracle as cloud took over, with a stint at GitHub, the home of open source, to hyperscale compute and security at AWS and Microsoft.
+## A little background
 
-Now I'm focused on what AI demands from all of it next.
+**Open source has been part of the story from the start.** I ran infrastructure for communities as an IRC operator in the OPN and freenode days, hacked on Gentoo as a student, took part in the first Google Summer of Code, contributed to OpenStack early on, and worked at GitHub.
 
-Open source has been a thread from the start — IRC ops on Freenode back in the OPN days, hacking on Gentoo as a student, the first Google Summer of Code, OpenStack in its early years, then building at GitHub, HP, and others.
+My recent work spans cloud capacity and identity security. At Microsoft, I've led Azure Capacity and Foundational Observability: forecasting and delivering compute, GPU and storage across 50+ regions, bringing gigawatts of new capacity online each year.
 
-Today I lead Azure Capacity and Foundational Observability — forecasting and delivering compute, GPU, and storage across 50+ regions and hundreds of datacenters, bringing gigawatts of new capacity online every year. Deploying the very latest hardware: Intel Xeon 6, AMD Turin, NVIDIA Vera Rubin NVL72 racks, and petabit-scale networks. Before that, I ran Entra Core Services in Microsoft Security — the identity systems processing trillions of requests weekly — defending against increasingly sophisticated and persistent nation-state threat actors.
+Before that, I ran Entra Core Services in Microsoft Security, where the work combined identity systems processing trillions of requests each week with defence against persistent nation-state threats.
 
-I still get my hands dirty — at work and at home, where a 1,000+ device Home Assistant setup keeps me busy.
+Earlier roles included Chief Information Security Officer at Oracle Cloud Infrastructure and leading EC2 Capacity, Forecasting & Placement at AWS — part of two decades in infrastructure that began in UK hosting and telecom.
 
-Outside of work: fitness, cycling, photography, reading, gaming, travel, great food, and yelling at the TV during Kraken games. 🏒
+## Writing & speaking
 
-<img src="azure-datacenter.jpg" alt="Azure datacenter" width="100%" />
+**[Every pixel is a decision](https://alexhowells.com/writing/every-pixel-is-a-decision/)**
 
-### Side Projects
+On rebuilding my personal site, the ideas I threw away, and why the details matter.
 
-<table>
-  <tr>
-    <td>🐤</td>
-    <td><a href="https://github.com/canaryframe"><b>canaryframe</b></a></td>
-    <td>Security & infrastructure tooling</td>
-  </tr>
-  <tr>
-    <td>🏴󠁧󠁢󠁷󠁬󠁳󠁿</td>
-    <td><a href="https://github.com/welshwandering"><b>welshwandering</b></a></td>
-    <td>Smart home, agents, PKM, scripts & utilities</td>
-  </tr>
-</table>
+[More writing](https://alexhowells.com/writing/) · [Speaking topics](https://alexhowells.com/speaking/)
+
+## Away from work
+
+Originally from the UK, now near Seattle. Building doesn't stop at work: a 1,000+ device Home Assistant setup keeps me busy at home.
+
+We're hacking pipes, not just code — tackling projects at home and on the farm, and planning a space for fitness and wellbeing.
+
+Fitness is a work in progress too — the ongoing battle against the bulge. Cycling helps; a love of good food keeps it interesting. There's also photography, reading, gaming, travel, and yelling at the TV during Kraken&nbsp;games.&nbsp;🏒
 
 ---
 
-### Elsewhere
-
-[![Personal: alex@howells.me](https://img.shields.io/badge/Personal-alex@howells.me-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:alex@howells.me) [![Work: alex.howells@microsoft.com](https://img.shields.io/badge/Work-alex.howells@microsoft.com-0078D4?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMCA0SDRjLTEuMSAwLTIgLjktMiAydjEyYzAgMS4xLjkgMiAyIDJoMTZjMS4xIDAgMi0uOSAyLTJWNmMwLTEuMS0uOS0yLTItMnptMCA0bC04IDUtOC01VjZsOCA1IDgtNXYyeiIvPjwvc3ZnPg==&logoColor=white)](mailto:alex.howells@microsoft.com) [![LinkedIn: 0x90slide](https://img.shields.io/badge/LinkedIn-0x90slide-0A66C2?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMTEyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+&logoColor=white)](https://linkedin.com/in/0x90slide) [![Facebook: 0x90slide](https://img.shields.io/badge/Facebook-0x90slide-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/0x90slide) [![Instagram: ceinewydd](https://img.shields.io/badge/Instagram-ceinewydd-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ceinewydd/) [![YouTube: ceinewydd](https://img.shields.io/badge/YouTube-ceinewydd-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@ceinewydd) [![Twitch: ceinewydd](https://img.shields.io/badge/Twitch-ceinewydd-9146FF?style=flat&logo=twitch&logoColor=white)](https://www.twitch.tv/ceinewydd) ![Discord: ceinewydd](https://img.shields.io/badge/Discord-ceinewydd-5865F2?style=flat&logo=discord&logoColor=white)
+[Website](https://alexhowells.com/) · [LinkedIn](https://www.linkedin.com/in/0x90slide/) · [Email](mailto:alex@howells.me) · [Instagram](https://www.instagram.com/ceinewydd/)
